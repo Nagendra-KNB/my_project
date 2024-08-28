@@ -1,0 +1,14 @@
+#project1
+
+Responsibilities 
+
+:•	Implemented and monitor CI/CD pipeline, running pipeline, finding out issues & resolve issues while running the automation pipeline, configured required plugins, creating and modifying jobs run the CD/CD pipeline accordingly
+•	Develop, Modify and execute the automation scripts using BASH,YAML,JSON
+•	Participated Technical KT’s as a mentor to share subject knowledge and conduct Induction programs for juniors to share project working flow 
+•	In case disaster or outage , Design ,implement backup & disaster recovery solutions on AWS which ensures that business continuity and high availability
+•	Collaborate with Dev Team for building and deploy application into next environment and  provision required infrastructure and setup kubernetes (k8s) cluster creating containers and pods ,managing and monitoring kubernetes (k8s) cluster
+•	Provisioning infrastructure like creating ec2-instances,s3 buckets using IAC Tool terraform , writing ,modifying and executing terraform scripts , which includes terraform phases like code, apply, plan 
+•	Creating IAM users and setting permission as per the project guidelines 
+•	Creating S3 buckets, writing , modifying JSON Policies which includes setting up provide full access ,read access and customized access policies 
+•	Configure Monitoring tool and Monitor servers & applications, which includes servers up and running or not , CPU, memory, disk space ,network bandwidth utilization, SSL Certificate expire date to avoid application downtime before they create problem for the end users follow the various matrices like latency, traffic, error, heavy resource utilization 
+
